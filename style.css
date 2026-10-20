@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   color: var(--ink);
-  font-family: 'Quicksand', sans-serif;
+  font-family: Arial, "Segoe UI", sans-serif;
   background:
     radial-gradient(ellipse at 50% 35%, rgba(255,255,255,.96) 0%, rgba(255,248,249,.86) 30%, transparent 67%),
     linear-gradient(145deg, #f8e4eb 0%, #fff5e9 48%, #eadcf4 100%);
